@@ -16,3 +16,4 @@ COPY rpm/* .
 USER oracle:oinstall
 EXPOSE 1521
 CMD ["/bin/bash"]
+#
